@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productorder notice="This file should not be modified manually." version="20.1.004" nextprodordid="274">
+    <productcategory cat="analysis" label="Solver">
+        <product name="ANSYS Mechanical Enterprise" id="ANSYS" simenv="wabm" anssupport="1" prodordid="4"/>
+        <product name="ANSYS Mechanical Premium" id="MECH_2" simenv="wabm" anssupport="1" prodordid="232"/>
+        <product name="ANSYS Mechanical Pro" id="MECH_1" simenv="wabm" anssupport="1" prodordid="233"/>
+        <product name="ANSYS DesignSpace" id="CAEWBPL3" simenv="w" anssupport="0" prodordid="62"/>
+        <product name="ANSYS POLYFLOW" id="ACFD_POLYFLOW" simenv="w" anssupport="0" prodordid="176"/>
+        <product name="ANSYS POLYFLOW Solver" id="ACFD_POLYFLOW_SOLVER" simenv="w" anssupport="0" prodordid="190"/>
+        <product name="FLUENT for CATIA V5" id="ACFD_FFC" simenv="w" anssupport="0" prodordid="230"/>
+        <product name="ANSYS CFD Enterprise" id="ACFD_3" simenv="w" anssupport="0" prodordid="242"/>
+        <product name="ANSYS CFD Premium" id="ACFD_2" simenv="w" anssupport="0" prodordid="243"/>
+        <product name="ANSYS CFD" id="ACFD" simenv="w" anssupport="0" prodordid="39"/>
+        <product name="ANSYS FLUENT" id="ACFD_FLUENT" simenv="w" anssupport="0" prodordid="148"/>
+        <product name="ANSYS CFX" id="ACFD_CFX" simenv="w" anssupport="0" prodordid="149"/>
+        <product name="ANSYS CFD-FLO" id="ACFD_FLO" simenv="w" anssupport="0" usename="1" prodordid="150"/>
+        <product name="ANSYS Mechanical Enterprise Solver" id="MEBA" simenv="bm" anssupport="1" prodordid="67"/>
+        <product name="ANSYS CFD Enterprise Solver" id="ACFDSOL3" simenv="w" anssupport="0" prodordid="244"/>
+        <product name="ANSYS CFD Premium Solver" id="ACFDSOL2" simenv="w" anssupport="0" prodordid="245"/>
+        <product name="ANSYS CFD Solver" id="ACFD_SOLVER" simenv="w" anssupport="0" prodordid="87" />
+        <product name="ANSYS FLUENT Solver" id="ACFD_FLUENT_SOLVER" simenv="w" anssupport="0" prodordid="151"/>
+        <product name="ANSYS CFX Solver" id="ACFD_CFX_SOLVER" simenv="w" anssupport="0" prodordid="144"/>
+        <product name="ANSYS CFD PrepPost" id="ACFD_PREPPOST" simenv="w" prodordid="75"/>
+        <product name="ANSYS Mechanical Enterprise PrepPost" id="PREPPOST" simenv="wab" anssupport="1" prodordid="196"/>
+        <product name="ANSYS FENSAP-ICE" id="AFSP_FENSAPICE_CFD" simenv="w" anssupport="0" prodordid="246"/>
+        <product name="ANSYS IcePak" id="AICE_PAK" simenv="w" anssupport="0" prodordid="179"/>
+        <product name="ANSYS IcePak Solver" id="AICE_SOLV" simenv="w" anssupport="0" prodordid="180"/>
+        <product name="ANSYS LS-DYNA" id="DYNA" simenv="abd" anssupport="1" prodordid="59"/>
+        <product name="ANSYS AIM Pro" id="AIM_MP1" simenv="w" anssupport="1" prodordid="209"/>
+        <product name="ANSYS AUTODYN PrepPost" id="ACDI_ADPREPOST" simenv="w" prodordid="76"/>
+        <product name="ANSYS Multiphysics" id="ANE3FL" simenv="wabm" anssupport="1" prodordid="1"/>
+        <product name="ANSYS Multiphysics/LS-DYNA" id="ANE3FLDS" simenv="wabdm" anssupport="1" prodordid="2"/>
+        <product name="ANSYS Mechanical/Emag" id="ANE3" simenv="wabm" anssupport="1" prodordid="5"/>
+        <product name="ANSYS Mechanical/CFD-Flo" id="ANCFX" simenv="wabm" anssupport="1" prodordid="7"/>
+        <product name="ANSYS Mechanical/LS-DYNA" id="ANSYSDS" simenv="wabdm" anssupport="1" prodordid="8"/>
+        <product name="ANSYS Structural" id="STRUCT" simenv="wab" anssupport="1" prodordid="14"/>
+        <product name="ANSYS Structural/Emag" id="STE3" simenv="wab" anssupport="1" prodordid="15"/>
+        <product name="ANSYS Structural/CFD-Flo" id="STCFX" simenv="wab" anssupport="1" prodordid="17"/>
+        <product name="ANSYS Professional NLT" id="PRF" simenv="wab" anssupport="1" prodordid="27"/>
+        <product name="ANSYS Professional NLS" id="PRFNLS" simenv="wab" anssupport="1" prodordid="28"/>
+        <product name="ANSYS Professional NLT Emag" id="PRFE3" simenv="wab" anssupport="1" prodordid="29"/>
+        <product name="ANSYS Emag" id="EMAG" simenv="wab" anssupport="1" prodordid="32"/>
+        <product name="ANSYS Multiphysics 3" id="ANE3FL3" simenv="wab" anssupport="1" prodordid="38"/>
+        <product name="ANSYS POLYFLOW Extrusion" id="ACFD_POLYFLOW_EXTRUSION" simenv="w" anssupport="0" prodordid="177"/>
+        <product name="ANSYS POLYFLOW BlowMolding" id="ACFD_POLYFLOW_BLOWMOLDING" simenv="w" anssupport="0" prodordid="178"/>
+        <product name="ANSYS CFX-Flo" id="ACFX_ANYMODULE" taskcnt="2" simenv="w" anssupport="0" usename="1" prodordid="40" />
+        <product name="ANSYS AUTODYN-3D" id="ACDI_AD3DFULL" simenv="w" anssupport="0" prodordid="42"/>
+        <product name="ANSYS AUTODYN-2D" id="ACDI_AD2DFULL" simenv="w" anssupport="0" prodordid="43"/>
+        <product name="ANSYS Explicit STR" id="ACDI_EXPLPROF" simenv="w" anssupport="0" prodordid="90"/>
+        <product name="ANSYS LS-DYNA PrepPost" id="DYNAPP" simenv="ab" anssupport="1" prodordid="60"/>
+        <product name="ANSYS LS-DYNA PC" id="DYNAPC" simenv="abd" anssupport="1" prodordid="61"/>
+        <product name="ANSYS DesignSpace Structural" id="DSSTRUCT" simenv="w" anssupport="0" prodordid="63"/>
+        <product name="ANSYS Multiphysics Solver" id="MPBA" simenv="bm" anssupport="1" prodordid="66"/>
+        <product name="ANSYS Structural Solver" id="STBA" simenv="b" anssupport="1" prodordid="69"/>
+        <product name="ANSYS Academic Associate Mechanical and CFD" id="AA_A" simenv="wabm" anssupport="1" prodordid="46"/>
+        <product name="ANSYS Academic Associate CFD" id="AA_A_CFD" simenv="w" anssupport="0" prodordid="82"/>
+        <product name="ANSYS Academic Research Mechanical and CFD" id="AA_R" simenv="wabm" anssupport="1" prodordid="48"/>
+        <product name="ANSYS Academic Research Mechanical" id="AA_R_ME" simenv="wab" anssupport="1" prodordid="85"/>
+        <product name="ANSYS Academic Research CFD" id="AA_R_CFD" simenv="w" anssupport="0" prodordid="49"/>
+        <product name="ANSYS Academic Research AUTODYN" id="AA_R_AD" simenv="w" anssupport="0" prodordid="50"/>
+        <product name="ANSYS Academic Research LS-DYNA" id="AA_R_DY" simenv="abd" anssupport="1" prodordid="57"/>
+        <product name="ANSYS Academic Research Electronics Thermal" id="AA_R_ET" simenv="w" anssupport="0" prodordid="83"/>
+        <product name="ANSYS Academic Teaching Mechanical and CFD" id="AA_T_A" simenv="wabm" anssupport="1" prodordid="52"/>
+        <product name="ANSYS Academic Teaching Mechanical" id="AA_T_ME" simenv="wab" anssupport="1" prodordid="53"/>
+        <product name="ANSYS Academic Teaching CFD" id="AA_T_CFD" simenv="w" anssupport="0" prodordid="54"/>
+        <product name="ANSYS AIM Student" id="AA_S_AIM" simenv="w" anssupport="1" prodordid="226"/>
+        <product name="ANSYS Academic Teaching Introductory" id="AA_T_I" simenv="wabm" anssupport="1" prodordid="51"/>
+        <product name="ANSYS Academic Research Offshore/Marine" id="AA_R_OM" simenv="wab" anssupport="0" prodordid="84"/>
+        <product name="ANSYS Academic Research POLYFLOW" id="AA_R_PF" simenv="w" anssupport="0" prodordid="186"/>
+        <product name="ANSYS Academic Teaching DesignSpace" id="AA_DS" simenv="w" anssupport="1" prodordid="163"/>
+        <product name="ANSYS Multiphysics/LS-DYNA PrepPost" id="ANE3FLDP" simenv="wabm" anssupport="1" prodordid="3"/>
+        <product name="ANSYS Mechanical/FLOTRAN" id="ANFL" simenv="wabm" anssupport="1" prodordid="6"/>
+        <product name="ANSYS Mechanical/Emag/LS-DYNA" id="ANE3DS" simenv="wabdm" anssupport="1" prodordid="9"/>
+        <product name="ANSYS Mechanical/CFD-Flo/LS-DYNA" id="ANFLDS" simenv="wabdm" anssupport="1" prodordid="10"/>
+        <product name="ANSYS Mechanical/LS-DYNA PrepPost" id="ANSYSDP" simenv="wabm" anssupport="1" prodordid="11"/>
+        <product name="ANSYS Mechanical/Emag/LS-DYNA PrepPost" id="ANE3DP" simenv="wabm" anssupport="1" prodordid="12"/>
+        <product name="ANSYS Mechanical/CFD-Flo/LS-DYNA PrepPost" id="ANFLDP" simenv="wabm" anssupport="1" prodordid="13"/>
+        <product name="ANSYS Structural/FLOTRAN" id="STFL" simenv="wab" anssupport="1" prodordid="16"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo" id="STE3FL" simenv="wab" anssupport="1" prodordid="18"/>
+        <product name="ANSYS Structural/LS-DYNA" id="STRUCTDS" simenv="wabd" anssupport="1" prodordid="19"/>
+        <product name="ANSYS Structural/Emag/LS-DYNA" id="STE3DS" simenv="wabd" anssupport="1" prodordid="20"/>
+        <product name="ANSYS Structural/CFD-Flo/LS-DYNA" id="STFLDS" simenv="wabd" anssupport="1" prodordid="21"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo/LS-DYNA" id="STE3FLDS" simenv="wabd" anssupport="1" prodordid="22"/>
+        <product name="ANSYS Structural/LS-DYNA PrepPost" id="STRUCTDP" simenv="wab" anssupport="1" prodordid="23"/>
+        <product name="ANSYS Structural/Emag/LS-DYNA PrepPost" id="STE3DP" simenv="wab" anssupport="1" prodordid="24"/>
+        <product name="ANSYS Structural/CFD-Flo/LS-DYNA PrepPost" id="STFLDP" simenv="wab" anssupport="1" prodordid="25"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo/LS-DYNA PrepPost" id="STE3FLDP" simenv="wab" anssupport="1" prodordid="26"/>
+        <product name="ANSYS Professional/FLOTRAN" id="PRFFL" simenv="wab" anssupport="1" prodordid="30"/>
+        <product name="ANSYS Professional/Emag/FLOTRAN" id="PRFE3FL" simenv="wab" anssupport="1" prodordid="31"/>
+        <product name="ANSYS Emag HF" id="EMAGHF" simenv="ab" anssupport="1" prodordid="33"/>
+        <product name="ANSYS Emag/FLOTRAN" id="EMAGFL" simenv="wab" anssupport="1" prodordid="34"/>
+        <product name="ANSYS FLOTRAN" id="FLOTRAN" simenv="wab" anssupport="1" prodordid="35"/>
+        <product name="ANSYS Multiphysics 1" id="ANE3FL1" simenv="wabm" anssupport="1" prodordid="36"/>
+        <product name="ANSYS Multiphysics 2" id="ANE3FL2" simenv="wab" anssupport="1" prodordid="37"/>
+        <product name="ANSYS CFX-5 Solver" id="ACFX_SOLVER" simenv="w" anssupport="0" prodordid="160"/>
+        <product name="ANSYS PrepPost/LS-DYNA PrepPost" id="PRPOSTDY" simenv="wab" anssupport="1" prodordid="45"/>
+        <product name="ANSYS AQWA - AQWALINE" id="ACDI_AQWALINE" simenv="w" anssupport="0" prodordid="217"/>
+        <product name="ANSYS AQWA - AQWADRFT" id="ACDI_AQWADRFT" simenv="w" anssupport="0" prodordid="218"/>
+        <product name="ANSYS AQWA - CD-DRIFT" id="ACDI_CD-DRIFT" simenv="w" anssupport="0" prodordid="219"/>
+        <product name="ANSYS AQWA - AQWAFER" id="ACDI_AQWAFER" simenv="w" anssupport="0" prodordid="220"/>
+        <product name="ANSYS AQWA - CD-FER" id="ACDI_CD-FER" simenv="w" anssupport="0" prodordid="221"/>
+        <product name="ANSYS AQWA - AQWALBRM" id="ACDI_AQWALBRM" simenv="w" anssupport="0" prodordid="222"/>
+        <product name="ANSYS AQWA - CD-LIBR" id="ACDI_CD-LIBR" simenv="w" anssupport="0" prodordid="223"/>
+        <product name="ANSYS AQWA - AQWANAUT" id="ACDI_AQWANAUT" simenv="w" anssupport="0" prodordid="224"/>
+        <product name="ANSYS AQWA - CD-NAUT" id="ACDI_CD-NAUT" simenv="w" anssupport="0" prodordid="225"/>
+        <product name="ANSYS ASAS - BEAMST" id="ACDI_BEAMST" simenv="w" anssupport="0" prodordid="112"/>
+        <product name="ANSYS ASAS - FATJACK" id="ACDI_FATJACK" simenv="w" anssupport="0" prodordid="120"/>
+        <product name="ANSYS ASAS - SPLINTER" id="ACDI_SPLINTER" simenv="w" anssupport="0" prodordid="197"/>
+        <product name="ANSYS Dynamics" id="DYNAMICS" simenv="w" anssupport="0" prodordid="192"/>
+        <product name="ANSYS DesignSpace Entra" id="CAEWBPL1" simenv="w" anssupport="0" prodordid="65"/>
+        <product name="ANSYS Professional Solver" id="PRBA" simenv="b" anssupport="1" prodordid="68"/>
+        <product name="ANSYS FLOTRAN Solver" id="FLBA" simenv="b" anssupport="1" prodordid="70"/>
+        <product name="ANSYS Emag Solver" id="E3BA" simenv="b" anssupport="1" prodordid="71"/>
+        <product name="EKM Enterprise Server" id="EKM_SERVER" simenv="w" anssupport="1" prodordid="91"/>
+        <product name="EKM User" id="EKM_USER" simenv="w" anssupport="1" prodordid="92"/>
+        <product name="EKM Named User" id="EKM_NAMED_USER" simenv="w" anssupport="1" prodordid="93"/>
+        <product name="EKM Workgroup Server" id="EKM_WG_SERVER" simenv= "w" anssupport="1" prodordid="94"/>
+        <product name="EKM Test Server" id="EKM_TEST_SERVER" simenv="w" anssupport="1" prodordid="95"/>
+        <product name="EKM Test Named User" id="EKM_TEST_NAMED_USER" simenv="w" anssupport="1" prodordid="96"/>
+        <product name="EKM Test Simultaneous User" id="EKM_TEST_USER" simenv="w" anssupport="1" prodordid="97"/>
+        <product name="EKM Datalink Server" id="EKM_DATALINK_SERVER" simenv="w" anssupport="1" prodordid="183"/>
+        <product name="EKM Datalink User" id="EKM_DATALINK_USER" simenv="w" anssupport="1" prodordid="185"/>
+        <product name="ANSYS ACADEMIC AQWA - AQWALINE" id="AA_R_AQL" simenv="w" anssupport="0" prodordid="228"/>
+        <product name="ANSYS Additive Print" id="AM_PRINT" simenv="w" anssupport="1" prodordid="250"/>
+        <product name="ANSYS Additive Suite" id="AM_MODULE" simenv="w" anssupport="1" prodordid="251"/>
+        <product name="CFD Solver - Level 3" id="CFD_SOLVE_LEVEL3" simenv="w" anssupport="1" prodordid="252"/>
+        <product name="Explicit - Advanced" id="EXPLICIT_ADVANCED" simenv="w" anssupport="1" prodordid="258"/>
+        <product name="CFD Solver - Level 2" id="CFD_SOLVE_LEVEL2" simenv="w" anssupport="1" prodordid="261"/>
+        <product name="Discovery - Level 2" id="DISCO_LEVEL2" simenv="w" anssupport="1" prodordid="262"/>
+        <product name="Discovery - Level 1" id="DISCO_LEVEL1" simenv="w" anssupport="1" prodordid="263"/>
+        <product name="Material Designer" id="MAT_DESIGNER" simenv="w" anssupport="1" prodordid="265"/>
+        <product name="AQWA Solve" id="AQWA_SOLVE" simenv="w" anssupport="1" prodordid="268"/>
+        <product name="Explicit - Basic" id="EXPLICIT_BASIC" simenv="w" anssupport="1" prodordid="270"/>
+        <product name="ANSYS ECAD Translator" id="ICE_TRANSLATOR" simenv="w" anssupport="1" prodordid="273"/>
+    </productcategory>
+    <productcategory cat="preppost" label="PrepPost">
+        <product name="ANSYS Customization Module" id="ANS_ACT" simenv="w" anssupport="0" prodordid="234"/>
+        <product name="ANSYS AUTODYN PrepPost" id="ACDI_ADPREPOST" simenv="w" prodordid="76"/>
+        <product name="ANSYS Ensight" id="ENSIGHT" simenv="w" prodordid="249"/>
+        <product name="ANSYS CFD PrepPost" id="ACFD_PREPPOST" simenv="w" prodordid="75"/>
+        <product name="ANSYS Mechanical Enterprise PrepPost" id="PREPPOST" simenv="wab" anssupport="1" prodordid="196"/>
+        <product name="ANSYS FENSAP-ICE" id="AFSP_FENSAPICE_CFD" simenv="w" anssupport="0" prodordid="237" />
+        <product name="ANSYS FENSAP-ICE OptiGrid" id="AFSP_OPTIGRID" simenv="w" anssupport="0" prodordid="238" />
+        <product name="ANSYS FENSAP-ICE GUI" id="AFSP_GUI" simenv="w" anssupport="0" prodordid="239" />
+        <product name="ANSYS FENSAP-ICE Viewmerical" id="AFSP_VIEWMERICAL" simenv="w" anssupport="0" prodordid="240" />
+        <product name="ANSYS Mechanical Enterprise" id="ANSYS" simenv="wabm" anssupport="1" prodordid="4"/>
+        <product name="ANSYS Mechanical Premium" id="MECH_2" simenv="wabm" anssupport="1" prodordid="232"/>
+        <product name="ANSYS Mechanical Pro" id="MECH_1" simenv="wabm" anssupport="1" prodordid="233"/>
+        <product name="ANSYS DesignSpace" id="CAEWBPL3" simenv="w" anssupport="0" prodordid="62"/>
+        <product name="ANSYS POLYFLOW" id="ACFD_POLYFLOW" simenv="w" anssupport="0" prodordid="176"/>
+        <product name="ANSYS POLYFLOW Solver" id="ACFD_POLYFLOW_SOLVER" simenv="w" anssupport="0" prodordid="190"/>
+        <product name="FLUENT for CATIA V5" id="ACFD_FFC" simenv="w" anssupport="0" prodordid="230"/>
+        <product name="ANSYS CFD Enterprise" id="ACFD_3" simenv="w" anssupport="0" prodordid="242"/>
+        <product name="ANSYS CFD Premium" id="ACFD_2" simenv="w" anssupport="0" prodordid="243"/>
+        <product name="ANSYS CFD" id="ACFD" simenv="w" anssupport="0" prodordid="39"/>
+        <product name="ANSYS FLUENT" id="ACFD_FLUENT" simenv="w" anssupport="0" prodordid="148"/>
+        <product name="ANSYS CFX" id="ACFD_CFX" simenv="w" anssupport="0" prodordid="149"/>
+        <product name="ANSYS CFD-FLO" id="ACFD_FLO" simenv="w" anssupport="0" usename="1" prodordid="150"/>
+        <product name="ANSYS CFD Enterprise Solver" id="ACFDSOL3" simenv="w" anssupport="0" prodordid="244"/>
+        <product name="ANSYS CFD Premium Solver" id="ACFDSOL2" simenv="w" anssupport="0" prodordid="245"/>
+        <product name="ANSYS CFD Solver" id="ACFD_SOLVER" simenv="w" anssupport="0" prodordid="87" />
+        <product name="ANSYS FLUENT Solver" id="ACFD_FLUENT_SOLVER" simenv="w" anssupport="0" prodordid="151"/>
+        <product name="ANSYS CFX Solver" id="ACFD_CFX_SOLVER" simenv="w" anssupport="0" prodordid="144"/>
+        <product name="ANSYS IcePak" id="AICE_PAK" simenv="w" anssupport="0" prodordid="179"/>
+        <product name="ANSYS LS-DYNA" id="DYNA" simenv="abd" anssupport="1" prodordid="59"/>
+        <product name="ANSYS AIM Pro" id="AIM_MP1" simenv="w" anssupport="1" prodordid="209"/>
+        <product name="ANSYS Composite PrepPost" id="ACPREPPOST" simenv="w" anssupport="0" prodordid="235"/>
+        <product name="ANSYS ICEM CFD" id="AIENV" simenv="w" prodordid="74"/>
+        <product name="ANSYS CFX PrepPost" id="ACFX_ANYMODULE" simenv="w" usename="1" prodordid="78" />
+        <product name="ANSYS CFD Post" id="ACFX_POST" simenv="w" prodordid="146"/>
+        <product name="ANSYS TurboGrid" id="ACFX_TURBOGRID" simenv="w" prodordid="147"/>
+        <product name="ANSYS Extended Meshing" id="AMESH_EXTENDED" simenv="w" prodordid="191"/>
+        <product name="ANSYS ICEM CFD AddOn" id="AIADDON" simenv="w" prodordid="194"/>
+        <product name="ANSYS ICEM CFD Tetra-Prism" id="AITETRA" simenv="w" prodordid="162"/>
+        <product name="ANSYS ICEM CFD Hexa" id="AIHEXA" simenv="w" prodordid="188"/>
+        <product name="ANSYS ICEM CFD Quad Mesher" id="AIQUAD" simenv="w" prodordid="189"/>
+        <product name="ANSYS CFX Mesh" id="CAD2MESH" simenv="w" prodordid="77"/>
+        <product name="ANSYS TGrid" id="AMESH_TGRID" simenv="w" prodordid="193"/>
+        <product name="ANSYS Multiphysics" id="ANE3FL" simenv="wabm" anssupport="1" prodordid="1"/>
+        <product name="ANSYS Multiphysics/LS-DYNA" id="ANE3FLDS" simenv="wabdm" anssupport="1" prodordid="2"/>
+        <product name="ANSYS Mechanical/Emag" id="ANE3" simenv="wabm" anssupport="1" prodordid="5"/>
+        <product name="ANSYS Mechanical/CFD-Flo" id="ANCFX" simenv="wabm" anssupport="1" prodordid="7"/>
+        <product name="ANSYS Mechanical/LS-DYNA" id="ANSYSDS" simenv="wabdm" anssupport="1" prodordid="8"/>
+        <product name="ANSYS Structural" id="STRUCT" simenv="wab" anssupport="1" prodordid="14"/>
+        <product name="ANSYS Structural/Emag" id="STE3" simenv="wab" anssupport="1" prodordid="15"/>
+        <product name="ANSYS Structural/CFD-Flo" id="STCFX" simenv="wab" anssupport="1" prodordid="17"/>
+        <product name="ANSYS Professional NLT" id="PRF" simenv="wab" anssupport="1" prodordid="27"/>
+        <product name="ANSYS Professional NLS" id="PRFNLS" simenv="wab" anssupport="1" prodordid="28"/>
+        <product name="ANSYS Professional NLT Emag" id="PRFE3" simenv="wab" anssupport="1" prodordid="29"/>
+        <product name="ANSYS Emag" id="EMAG" simenv="wab" anssupport="1" prodordid="32"/>
+        <product name="ANSYS Multiphysics 3" id="ANE3FL3" simenv="wab" anssupport="1" prodordid="38"/>
+        <product name="ANSYS POLYFLOW Extrusion" id="ACFD_POLYFLOW_EXTRUSION" simenv="w" anssupport="0" prodordid="177"/>
+        <product name="ANSYS POLYFLOW BlowMolding" id="ACFD_POLYFLOW_BLOWMOLDING" simenv="w" anssupport="0" prodordid="178"/>
+        <product name="ANSYS AUTODYN-3D" id="ACDI_AD3DFULL" simenv="w" anssupport="0" prodordid="42"/>
+        <product name="ANSYS AUTODYN-2D" id="ACDI_AD2DFULL" simenv="w" anssupport="0" prodordid="43"/>
+        <product name="ANSYS Explicit STR" id="ACDI_EXPLPROF" simenv="w" anssupport="0" prodordid="90"/>
+        <product name="ANSYS LS-DYNA PrepPost" id="DYNAPP" simenv="ab" anssupport="1" prodordid="60"/>
+        <product name="ANSYS LS-DYNA PC" id="DYNAPC" simenv="abd" anssupport="1" prodordid="61"/>
+        <product name="ANSYS DesignSpace Structural" id="DSSTRUCT" simenv="w" anssupport="0" prodordid="63"/>
+        <product name="ANSYS Academic CFD Turbo Tools" id="AA_TURBO" simenv="w" anssupport="0" prodordid="58"/>
+        <product name="ANSYS Academic Preprocessing Tools" id="AA_MESH" simenv="w" prodordid="79"/>
+        <product name="ANSYS Academic Associate Mechanical and CFD" id="AA_A" simenv="wabm" anssupport="1" prodordid="46"/>
+        <product name="ANSYS Academic Associate CFD" id="AA_A_CFD" simenv="w" anssupport="0" prodordid="82"/>
+        <product name="ANSYS Academic Research Mechanical and CFD" id="AA_R" simenv="wabm" anssupport="1" prodordid="48"/>
+        <product name="ANSYS Academic Research Mechanical" id="AA_R_ME" simenv="wab" anssupport="1" prodordid="85"/>
+        <product name="ANSYS Academic Research CFD" id="AA_R_CFD" simenv="w" anssupport="0" prodordid="49"/>
+        <product name="ANSYS Academic Research AUTODYN" id="AA_R_AD" simenv="w" anssupport="0" prodordid="50"/>
+        <product name="ANSYS Academic Research LS-DYNA" id="AA_R_DY" simenv="abd" anssupport="1" prodordid="57"/>
+        <product name="ANSYS Academic Research Electronics Thermal" id="AA_R_ET" simenv="w" anssupport="0" prodordid="83"/>
+        <product name="ANSYS Academic Teaching Mechanical and CFD" id="AA_T_A" simenv="wabm" anssupport="1" prodordid="52"/>
+        <product name="ANSYS Academic Teaching Mechanical" id="AA_T_ME" simenv="wab" anssupport="1" prodordid="53"/>
+        <product name="ANSYS Academic Teaching CFD" id="AA_T_CFD" simenv="w" anssupport="0" prodordid="54"/>
+        <product name="ANSYS AIM Student" id="AA_S_AIM" simenv="w" anssupport="1" prodordid="226"/>
+        <product name="ANSYS Academic Teaching Introductory" id="AA_T_I" simenv="wabm" anssupport="1" prodordid="51"/>
+        <product name="ANSYS Academic Research Offshore/Marine" id="AA_R_OM" simenv="wab" anssupport="0" prodordid="84"/>
+        <product name="ANSYS Academic Research POLYFLOW" id="AA_R_PF" simenv="w" anssupport="0" prodordid="186"/>
+        <product name="ANSYS Academic Teaching DesignSpace" id="AA_DS" simenv="w" anssupport="1" prodordid="163"/>
+        <product name="ANSYS ICEM CFD Mesh Editor" id="AIMED" simenv="w" prodordid="158"/>
+        <product name="ANSYS ASAS" id="ACDI_ASAS" simenv="w" prodordid="213"/>
+        <product name="ANSYS CFX Pre" id="ACFX_PRE" simenv="w" prodordid="145"/>
+        <product name="ANSYS Mesh" id="AMESH" simenv="w" prodordid="159"/>
+        <product name="ANSYS IcePak Mesher" id="AICE_MESHER" simenv="w" prodordid="181"/>
+        <product name="EKM Desktop" id="EKM_DESKTOP" simenv="w" prodordid="195"/>
+        <product name="ANSYS PrepPost/LS-DYNA PrepPost" id="PRPOSTDY" simenv="wab" anssupport="1" prodordid="45"/>
+        <product name="ANSYS Multiphysics/LS-DYNA PrepPost" id="ANE3FLDP" simenv="wabm" anssupport="1" prodordid="3"/>
+        <product name="ANSYS Mechanical/FLOTRAN" id="ANFL" simenv="wabm" anssupport="1" prodordid="6"/>
+        <product name="ANSYS Mechanical/Emag/LS-DYNA" id="ANE3DS" simenv="wabdm" anssupport="1" prodordid="9"/>
+        <product name="ANSYS Mechanical/CFD-Flo/LS-DYNA" id="ANFLDS" simenv="wabdm" anssupport="1" prodordid="10"/>
+        <product name="ANSYS Mechanical/LS-DYNA PrepPost" id="ANSYSDP" simenv="wabm" anssupport="1" prodordid="11"/>
+        <product name="ANSYS Mechanical/Emag/LS-DYNA PrepPost" id="ANE3DP" simenv="wabm" anssupport="1" prodordid="12"/>
+        <product name="ANSYS Mechanical/CFD-Flo/LS-DYNA PrepPost" id="ANFLDP" simenv="wabm" anssupport="1" prodordid="13"/>
+        <product name="ANSYS Structural/FLOTRAN" id="STFL" simenv="wab" anssupport="1" prodordid="16"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo" id="STE3FL" simenv="wab" anssupport="1" prodordid="18"/>
+        <product name="ANSYS Structural/LS-DYNA" id="STRUCTDS" simenv="wabd" anssupport="1" prodordid="19"/>
+        <product name="ANSYS Structural/Emag/LS-DYNA" id="STE3DS" simenv="wabd" anssupport="1" prodordid="20"/>
+        <product name="ANSYS Structural/CFD-Flo/LS-DYNA" id="STFLDS" simenv="wabd" anssupport="1" prodordid="21"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo/LS-DYNA" id="STE3FLDS" simenv="wabd" anssupport="1" prodordid="22"/>
+        <product name="ANSYS Structural/LS-DYNA PrepPost" id="STRUCTDP" simenv="wab" anssupport="1" prodordid="23"/>
+        <product name="ANSYS Structural/Emag/LS-DYNA PrepPost" id="STE3DP" simenv="wab" anssupport="1" prodordid="24"/>
+        <product name="ANSYS Structural/CFD-Flo/LS-DYNA PrepPost" id="STFLDP" simenv="wab" anssupport="1" prodordid="25"/>
+        <product name="ANSYS Structural/Emag/CFD-Flo/LS-DYNA PrepPost" id="STE3FLDP" simenv="wab" anssupport="1" prodordid="26"/>
+        <product name="ANSYS Professional/FLOTRAN" id="PRFFL" simenv="wab" anssupport="1" prodordid="30"/>
+        <product name="ANSYS Professional/Emag/FLOTRAN" id="PRFE3FL" simenv="wab" anssupport="1" prodordid="31"/>
+        <product name="ANSYS Emag HF" id="EMAGHF" simenv="ab" anssupport="1" prodordid="33"/>
+        <product name="ANSYS Emag/FLOTRAN" id="EMAGFL" simenv="wab" anssupport="1" prodordid="34"/>
+        <product name="ANSYS FLOTRAN" id="FLOTRAN" simenv="wab" anssupport="1" prodordid="35"/>
+        <product name="ANSYS Multiphysics 1" id="ANE3FL1" simenv="wabm" anssupport="1" prodordid="36"/>
+        <product name="ANSYS Multiphysics 2" id="ANE3FL2" simenv="wab" anssupport="1" prodordid="37"/>
+        <product name="ANSYS AQWA - HYDRO-DIFFRACT" id="ACDI_HYDRODIFF" simenv="w" anssupport="0" prodordid="140"/>
+        <product name="ANSYS AQWA - AQWAGS" id="ACDI_AQWAGS" simenv="w" anssupport="0" prodordid="214"/>
+        <product name="ANSYS AQWA - CD-AGS" id="ACDI_CD-AGS" simenv="w" anssupport="0" prodordid="215"/>
+        <product name="ANSYS AQWA - AQWAWAVE" id="ACDI_AQWAWAVE" simenv="w" anssupport="0" prodordid="216"/>
+        <product name="ANSYS Dynamics" id="DYNAMICS" simenv="w" anssupport="0" prodordid="192"/>
+        <product name="ANSYS DesignSpace Entra" id="CAEWBPL1" simenv="w" anssupport="0" prodordid="65"/>
+        <product name="Advanced Meshing" id="ADVANCED_MESHING" simenv="w" anssupport="0" prodordid="253"/>
+        <product name="AQWA Pre" id="AQWA_PRE" simenv="w" anssupport="1" prodordid="257"/>
+        <product name="Explicit - Basic" id="EXPLICIT_BASIC" simenv="w" anssupport="1" prodordid="259"/>
+        <product name="CFD PrepPost" id="CFD_PREPPOST" simenv="w" prodordid="260"/>
+        <product name="Polyflow UI" id="CFD_POLYFLOW_UI" simenv="w" anssupport="1" prodordid="267"/>
+        <product name="AQWA Solve" id="AQWA_SOLVE" simenv="w" anssupport="1" prodordid="268"/>
+        <product name="ANSYS Fluent Meshing" id="FLUENT_MESHING" simenv="w" anssupport="1" prodordid="271"/>
+        <product name="ANSYS Fluent Setup and Post" id="FLUENT_SETUP_POST" simenv="w" anssupport="1" prodordid="272"/>
+	</productcategory>
+    <productcategory cat="modeler" label="Geometry">
+        <product name="ANSYS DesignModeler" id="AGPPI" simenv="w" prodordid="72"/>
+        <product name="ANSYS BladeModeler" id="ACFX_BLDMDLR" simenv="w" prodordid="73"/>
+        <product name="ANSYS SpaceClaim Direct Modeler" id="A_SPACECLAIM_DIRMOD" simenv="w" anssupport="0" prodordid="236"/>
+        <product name="ANSYS Mechanical Enterprise PrepPost" id="PREPPOST" simenv="wab" anssupport="1" prodordid="196"/>
+        <product name="ANSYS Mechanical Enterprise" id="ANSYS" simenv="wabm" anssupport="1" prodordid="4"/>
+        <product name="ANSYS CFD Enterprise" id="ACFD_3" simenv="w" anssupport="0" prodordid="242"/>
+        <product name="ANSYS CFD Premium" id="ACFD_2" simenv="w" anssupport="0" prodordid="243"/>
+        <product name="ANSYS CFD PrepPost" id="ACFD_PREPPOST" simenv="w" prodordid="75"/>
+        <product name="ANSYS AIM Pro" id="AIM_MP1" simenv="w" anssupport="1" prodordid="209"/>
+        <product name="ANSYS Academic Associate Mechanical and CFD" id="AA_A" simenv="wabm" anssupport="1" prodordid="46"/>
+        <product name="ANSYS Academic Research Mechanical and CFD" id="AA_R" simenv="wabm" anssupport="1" prodordid="48"/>
+        <product name="ANSYS Academic Research Mechanical" id="AA_R_ME" simenv="wab" anssupport="1" prodordid="85"/>
+        <product name="ANSYS Academic Research CFD" id="AA_R_CFD" simenv="w" anssupport="0" prodordid="49"/>
+        <product name="ANSYS Academic Teaching Mechanical and CFD" id="AA_T_A" simenv="wabm" anssupport="1" prodordid="52"/>
+        <product name="ANSYS Academic Teaching Mechanical" id="AA_T_ME" simenv="wab" anssupport="1" prodordid="53"/>
+        <product name="ANSYS Academic Teaching CFD" id="AA_T_CFD" simenv="w" anssupport="0" prodordid="54"/>
+        <product name="ANSYS AIM Student" id="AA_S_AIM" simenv="w" anssupport="1" prodordid="226"/>
+        <product name="ANSYS Academic Teaching Introductory" id="AA_T_I" simenv="wabm" anssupport="1" prodordid="51"/>
+        <product name="ANSYS Academic Associate CFD" id="AA_A_CFD" simenv="w" anssupport="0" prodordid="82"/>
+        <product name="ANSYS Additive Print" id="AM_PRINT" simenv="w" anssupport="1" prodordid="250"/>
+        <product name="Discovery - Level 1" id="DISCO_LEVEL1" simenv="w" anssupport="1" prodordid="263"/>
+    </productcategory>
+    <productcategory cat="hpc" label="HPC">
+        <product name="ANSYS HPC Pack" id="ANSHPC_PACK" simenv="w" prodordid="164"/>
+        <product name="ANSYS HPC" id="ANSHPC" simenv="w" prodordid="165"/>
+        <product name="ANSYS CFD HPC" id="ACFD_PAR_PROC" simenv="w" prodordid="166"/>
+        <product name="ANSYS Mechanical HPC" id="MECHHPC" simenv="w" prodordid="167"/>
+        <product name="ANSYS CFX Parallel Computing" id="ACFX_PAR_PROC" simenv="w" prodordid="175"/>
+        <product name="ANSYS AUTODYN HPC" id="ACDI_ADHPC" simenv="w" prodordid="168"/>
+        <product name="ANSYS Academic Associate HPC" id="AA_A_HPC" simenv="w" prodordid="170"/>
+        <product name="ANSYS Academic Research HPC" id="AA_R_HPC" simenv="w" prodordid="171"/>
+        <product name="ANSYS Academic CFD HPC" id="AA_P_C" simenv="w" prodordid="172"/>
+        <product name="ANSYS IcePak Parallel" id="AICE_PAR" simenv="w" prodordid="182"/>
+    </productcategory>
+</productorder>
