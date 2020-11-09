@@ -1,4 +1,4 @@
-# Ansys 2020 ÆÆ½â×¢²á²¹¶¡
+# Ansys 2020 ç ´è§£æ³¨å†Œè¡¥ä¸
 
 1. Uninstall (if exist) ANSYS License Manager from previous ANSYS versions
 
